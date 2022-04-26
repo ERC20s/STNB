@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T17:07:46.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QSM8c59d5OUP28_cGHF3" version="17.4.6" type="github"><diagram id="xuCR9hwgmg2kiapBceWF" name="Page-1">7VnLUtswFP2aLOn4kefShFCYQsoQoN0KW7EFjq6ryHn063tlyxijkrozBWVSNrZ1dBVJR8dHV07HHy82nwXJkkuIaNrxnGjT8U86nuc6/hBvCtmWSG/ol0AsWKSDamDGftKqpUZzFtFlI1ACpJJlTTAEzmkoGxgRAtbNsDmkzV4zElMDmIUkNdFvLJJJiQ69QY2fURYnVc9uf1TWLEgVrGeyTEgE62eQP+n4YwEgy6fFZkxTRV7FS9nu9JXap4EJymWbBtO7r9fRefx94OXLcPtwMb6S06Ne+SsrkuZ6wnqwclsxQCMkRBdByARi4CSd1OixgJxHVHXjYKmOuQDIEHQRfKBSbvXqklwCQolcpLq27FN19OrcNLSEXIR0x4QqjRARU7kjrvu0AihdCgsqxRbbCZoSyVbNcRCtofgprqYZHzTTf8F6/4N1C6wP/1fWBzZZdw3WZzfB9CS4xkfnKrgOxmfB+dRYiZpnRdo6YZLOMlLQscad5necrqiQdLObVZOFqkFX27TepyrXXtem71ZY8szw+85b8eYcmlz9lnIdWZWrqdcP2t+edt9g/XZ6HEy/TE52OIPzLs7Qd/fNGQ4uaeu2lKhrNX/oGrRf5uoggnTi+SMXOO+Q4VkFJ5IQqTDC8XpPCwrw3KGOHwKvt7NLNT4VkgHj6g5zFYSnjk/GUv5B4c2N8l/ovSl3t2dd74ND0/ugrd77VrfCg0uY2/JudSs01R4UjebI47L4qlH4DXApIE2pspV7NbrCbHJ+T/hjAYIgobImy3bi+fvmJ97BZdajtn5iVdgjg/YrAcXGV1y0vi2fA3u9fZOra+YdNwlTTrCGvMgqBP2RM1GmGQt1e2Q8qmhNIcRi/IJlp0hEgB+FCWG8GAISxCTO+tS6ZbzIQLyR9SVo8cHOtq/uAUvmCz4mQgkxE7BCgQnrb/fAeb+3G4v1x/2i7tlfJP7kFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T18:00:36.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JHXHN7TcE8pv8GB7oiZS" version="17.4.6" type="github">
+  <diagram id="xuCR9hwgmg2kiapBceWF" name="Page-1">
+    <mxGraphModel dx="865" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NVORdIgX72uscyjLCPtN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NVORdIgX72uscyjLCPtN-1" target="NVORdIgX72uscyjLCPtN-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#FF0000;" parent="1" source="NVORdIgX72uscyjLCPtN-1" target="NVORdIgX72uscyjLCPtN-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;" parent="1" source="NVORdIgX72uscyjLCPtN-3" target="NVORdIgX72uscyjLCPtN-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-1" value="STANDARD PARACHAIN TRANSACTION" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NVORdIgX72uscyjLCPtN-3" target="DMNceW88_y9GVToukhh7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1" source="NVORdIgX72uscyjLCPtN-3" target="DMNceW88_y9GVToukhh7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-3" value="UNBANKED" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NVORdIgX72uscyjLCPtN-4" target="NVORdIgX72uscyjLCPtN-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-4" value="Multiple currencies are sold for USM at point of sale." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NVORdIgX72uscyjLCPtN-7" target="NVORdIgX72uscyjLCPtN-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-7" value="Runs an oracle that controls users funds." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NVORdIgX72uscyjLCPtN-9" target="NVORdIgX72uscyjLCPtN-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-9" value="Proof of funds" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="511.5" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVORdIgX72uscyjLCPtN-14" target="NVORdIgX72uscyjLCPtN-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-14" value="Would require timelock to avoid double spend of funds and maybe on-chain identity?" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="220" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NVORdIgX72uscyjLCPtN-16" target="NVORdIgX72uscyjLCPtN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-16" value="Funds are sent to UNBANKED" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVORdIgX72uscyjLCPtN-19" value="Card provider approves payment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="668.5" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DMNceW88_y9GVToukhh7-8" target="DMNceW88_y9GVToukhh7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-8" value="END-USER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DMNceW88_y9GVToukhh7-9" target="NVORdIgX72uscyjLCPtN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-9" value="Spends money on card" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DMNceW88_y9GVToukhh7-12" target="NVORdIgX72uscyjLCPtN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMNceW88_y9GVToukhh7-12" value="Has full control of users funds" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
